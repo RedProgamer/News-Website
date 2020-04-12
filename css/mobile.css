@@ -41,6 +41,10 @@
         font-size: 1.8rem;
     }
 
+    #showcase .showcase-content > a {
+        padding: 1rem 2rem;
+    }
+
     #main-footer .footer-container > *:last-child {
         grid-column: 1;
     }
