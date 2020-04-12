@@ -36,6 +36,11 @@
         grid-template-columns: 1fr;
     }
 
+    #showcase .showcase-content > h1 {
+        /* display:none; */
+        font-size: 1.8rem;
+    }
+
     #main-footer .footer-container > *:last-child {
         grid-column: 1;
     }
